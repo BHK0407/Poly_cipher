@@ -2,7 +2,7 @@
 
 This Python script implements a poly-alphabetic substitution cipher to encrypt and decrypt messages. The script uses a key to generate a character mapping for substitution, providing a basic form of encryption.
 
-# Functionality
+## Functionality
 
 - The **'poly'** function takes a plaintext and a key as input and performs poly-alphabetic substitution encryption or decryption.
 
@@ -10,11 +10,11 @@ This Python script implements a poly-alphabetic substitution cipher to encrypt a
 
 - Non-alphabetic characters in the input text are preserved during the process.
 
-# License
+## License
 
 This project is licensed under the MIT License.
 
-# Usage
+## Usage
 
 **Clone the Repository:**
    ```bash
