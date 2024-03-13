@@ -18,7 +18,7 @@ This project is licensed under the MIT License.
 
 **Clone the Repository:**
    ```bash
-   git clone https://github.com/BHK0407/BHK0407-Poly_cipher.git
+   git clone https://github.com/BHK0407/Poly_cipher.git
 
 1. Navigate to the Project Directory:
 
