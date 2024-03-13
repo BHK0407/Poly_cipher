@@ -18,13 +18,13 @@ This project is licensed under the MIT License.
 
 **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/poly-alphabetic substitution-cipher.git
+   git clone https://github.com/BHK0407/BHK0407-Poly_cipher.git
 
 1. Navigate to the Project Directory:
 
 bash
 
-cd poly-alphabetic-substitution-cipher
+cd poly_cipher
 
 2. Run the Script:
 
